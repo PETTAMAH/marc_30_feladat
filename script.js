@@ -13,5 +13,5 @@ console.log(post);
 let age = 33;
 
 if (age >18) {
-    console.log("You're an adult!");
+    console.log("You're an adulter!");
 }
